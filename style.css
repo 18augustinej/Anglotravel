@@ -1,8 +1,8 @@
 body {
     background-color: white;
     font-family: times new roman;
-	  color: blue;
-	  font-size: 20px;
+    color: blue;
+    font-size: 30px;
 }
 
 ul {
@@ -21,10 +21,10 @@ li a {
     display: block;
     color: white;
     text-align: center;
-    padding: 14px 60px;
+    padding: 14px 50px;
     text-decoration: none;
 	font-family: times new roman;
-	font-size: 25px;
+	font-size: 30px;
 }
 
 li a:hover {
