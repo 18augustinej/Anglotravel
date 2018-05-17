@@ -2,7 +2,7 @@ body {
     background-color: white;
     font-family: times new roman;
     color: blue;
-    font-size: 30px;
+    font-size: 25px;
 }
 
 ul {
@@ -21,7 +21,7 @@ li a {
     display: block;
     color: white;
     text-align: center;
-    padding: 14px 50px;
+    padding: 14px 60px;
     text-decoration: none;
 	font-family: times new roman;
 	font-size: 30px;
