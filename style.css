@@ -41,10 +41,9 @@ li a {
     display: block;
     color: white;
     text-align: center;
-    padding: 14px 50px;
+    padding: 14px 55px;
     text-decoration: none;
-	font-family: times new roman;
-	font-size: 30px;
+    font-size: 30px;
 }
 
 li a:hover {
