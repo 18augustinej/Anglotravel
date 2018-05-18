@@ -6,6 +6,8 @@ body {
 p {
     color: blue;
     font-size: 25px;
+    border: 5px solid blue;
+    border-radius: 25px;
 }
 
 h1 {
