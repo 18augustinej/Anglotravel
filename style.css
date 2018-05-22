@@ -22,7 +22,7 @@ h1 {
 
 h2 {
     color: blue;
-    font-size: 50px;
+    font-size: 40px;
 }
 
 ul {
@@ -41,7 +41,7 @@ li a {
     display: block;
     color: white;
     text-align: center;
-    padding: 14px 52.5px;
+    padding: 14px 52.2px;
     text-decoration: none;
     font-size: 30px;
 }
